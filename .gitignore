@@ -1,0 +1,4 @@
+*.o
+*.D
+NPB-OMP/MG/npbparams.hpp
+NPB-OMP/sys/setparams
